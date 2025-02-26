@@ -1,2 +1,5 @@
 # aula_1
-Repositório para organizar disciplinas e matérias de ciência da computação
+Entender as principais funcionalidades do GitHub
+
+1 - Foram apresentadas as funcionalidades básicas do GitHub.
+2- Atualizar a brench principal (main)

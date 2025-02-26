@@ -2,4 +2,4 @@
 Entender as principais funcionalidades do GitHub
 
 1 - Foram apresentadas as funcionalidades básicas do GitHub.
-2- Atualizar a brench principal (main)
+2 - Atualizar a brench principal (main)
